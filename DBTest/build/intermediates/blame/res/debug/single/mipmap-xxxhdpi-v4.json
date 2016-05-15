@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/juseungjin/AndroidStudioProjects/SJProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/juseungjin/AndroidStudioProjects/SJProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/juseungjin/AndroidStudioProjects/SJProject/DBTest/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/juseungjin/AndroidStudioProjects/SJProject/DBTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
