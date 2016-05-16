@@ -4,11 +4,15 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\SJProject\\DBTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\DBTest\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\DBTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\SJProject\\DBTest\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\SJProject\\DBTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\DBTest\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\juseungjin\\AndroidStudioProjects\\SJProject\\DBTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

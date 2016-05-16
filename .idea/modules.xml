@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DBTest/DBTest.iml" filepath="$PROJECT_DIR$/DBTest/DBTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SJProject.iml" filepath="$PROJECT_DIR$/SJProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DBTest/app.iml" filepath="$PROJECT_DIR$/DBTest/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/webchat/webchat.iml" filepath="$PROJECT_DIR$/webchat/webchat.iml" />
     </modules>
   </component>
